@@ -1,0 +1,148 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "features": "Features",
+    "contact": "Contact",
+    "login": "Login",
+    "signup": "Sign Up"
+  },
+  "hero": {
+    "title": "Welcome to Our Platform",
+    "subtitle": "Discover amazing features that will transform your experience",
+    "cta": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "We are dedicated to providing the best service to our customers. Our team works tirelessly to ensure your satisfaction.",
+    "mission": "Our Mission",
+    "missionText": "To deliver innovative solutions that make a difference in people's lives.",
+    "vision": "Our Vision",
+    "visionText": "To be the leading provider of cutting-edge technology solutions."
+  },
+  "features": {
+    "title": "Our Features",
+    "feature1": {
+      "title": "Easy to Use",
+      "description": "Simple and intuitive interface designed for everyone"
+    },
+    "feature2": {
+      "title": "Secure",
+      "description": "Your data is protected with state-of-the-art security"
+    },
+    "feature3": {
+      "title": "Fast",
+      "description": "Lightning-fast performance for the best user experience"
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "step1": {
+      "title": "Step 1",
+      "description": "Sign up for an account"
+    },
+    "step2": {
+      "title": "Step 2",
+      "description": "Choose your plan"
+    },
+    "step3": {
+      "title": "Step 3",
+      "description": "Start using our platform"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team for any questions or support you need.",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "message": "Message",
+    "sendMessage": "Send Message",
+    "getInTouch": "Get in Touch",
+    "getInTouchText": "Our team is here to help you with any questions about MedLink or our healthcare data platform.",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "addressLabel": "Address"
+  },
+  "footer": {
+    "copyright": "© 2024 Our Platform. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Login",
+      "forgotPassword": "Forgot Password?",
+      "noAccount": "Don't have an account?",
+      "signup": "Sign Up"
+    },
+    "signup": {
+      "title": "Sign Up",
+      "name": "Full Name",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "submit": "Sign Up",
+      "hasAccount": "Already have an account?",
+      "login": "Login"
+    }
+  },
+  "user": {
+    "signOut": "Sign out",
+    "demoAccounts": "Demo Accounts Available",
+    "demoAccountsDesc": "Click to login with default credentials",
+    "admin": "Admin",
+    "user": "User"
+  },
+  "admin": {
+    "dashboard": "Admin Dashboard",
+    "usersManagement": "Users Management",
+    "usersManagementDesc": "Manage user accounts, roles, and permissions",
+    "manageUsers": "Manage Users",
+    "systemHealth": "System Health",
+    "systemHealthDesc": "Monitor system performance and health metrics",
+    "viewMetrics": "View Metrics",
+    "dataAnalytics": "Data Analytics",
+    "dataAnalyticsDesc": "Access comprehensive data reports and insights",
+    "viewReports": "View Reports",
+    "recentActivity": "Recent Activity",
+    "newUserRegistration": "New user registration: {email}",
+    "systemBackupCompleted": "System backup completed successfully",
+    "databaseMaintenanceScheduled": "Database maintenance scheduled for tonight"
+  },
+  "userDashboard": {
+    "dashboard": "User Dashboard",
+    "healthRecords": "Health Records",
+    "healthRecordsDesc": "View and manage your personal health records",
+    "viewRecords": "View Records",
+    "appointments": "Appointments",
+    "appointmentsDesc": "Schedule and manage your medical appointments",
+    "bookAppointment": "Book Appointment",
+    "prescriptions": "Prescriptions",
+    "prescriptionsDesc": "Access your current and past prescriptions",
+    "viewPrescriptions": "View Prescriptions",
+    "quickActions": "Quick Actions",
+    "newRecord": "New Record",
+    "bookVisit": "Book Visit",
+    "message": "Message",
+    "emergency": "Emergency",
+    "recentActivity": "Recent Activity",
+    "healthRecordUpdated": "Health record updated: Blood pressure reading",
+    "appointmentScheduled": "Appointment scheduled: Dr. Smith - Tomorrow 2:00 PM",
+    "newPrescriptionReceived": "New prescription received: Amoxicillin"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "welcome": "Welcome",
+    "logout": "Logout"
+  }
+}
