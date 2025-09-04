@@ -1,0 +1,1 @@
+MedLink is a full-stack healthcare management system that connects patients, doctors, and administrators. It streamlines medical records, patient care, and hospital administration with secure, scalable, and user-friendly digital workflows.
