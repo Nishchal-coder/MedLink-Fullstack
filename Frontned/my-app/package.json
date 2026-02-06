@@ -22,7 +22,7 @@
     "micromatch": "^4.0.8",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-i18next": "^15.7.3",
+    "react-i18next": "^15.7.4",
     "react-router-dom": "^6.28.0",
     "to-regex-range": "^5.0.1"
   },
